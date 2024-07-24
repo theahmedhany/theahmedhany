@@ -17,6 +17,11 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theahmedhany&locale=en&hide_title=true&layout=compact&card_width=320&theme=dark&hide_border=false" height="150" alt="languages graph"/>
+</div>
+
+
 <h3 align="left">
     Mobile App Development:
 </h3>
@@ -28,6 +33,7 @@
 <h3 align="left">
     Programming Languages:
 </h3>
+
 
 <div align="left" style="display: flex; gap: .5rem">
   <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="40" alt="Dart logo"/>
