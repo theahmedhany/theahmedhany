@@ -21,7 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theahmedhany&locale=en&hide_title=true&layout=compact&card_width=320&theme=dark&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
-
 <h3 align="left">
     Mobile App Development:
 </h3>
