@@ -4,7 +4,6 @@
   <img height="450" src="https://i.redd.it/n8agw6z2smyb1.gif" alt=""/>
 </div>
 
-
 <h3 align="center">
   Hi! I'm Ahmed Hany. <br/>
   I'm a Software Engineer. <br/>
@@ -17,9 +16,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theahmedhany&locale=en&hide_title=true&layout=compact&card_width=320&theme=react&hide_border=true" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theahmedhany&locale=en&hide_title=true&layout=compact&card_width=320&theme=react&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theahmedhany&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph" />
 </div>
-
 
 <h3 align="left">
     Tech Stack:
@@ -47,7 +46,6 @@
   <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="40" height="40" alt="ai logo"/>
   <img src="https://skillicons.dev/icons?i=notion&theme=light" width="40" height="40" alt="notion logo"/>
 </div>
-
 
 <h3 align="left">
     Let's Connect:
