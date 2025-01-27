@@ -16,7 +16,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theahmedhany&locale=en&hide_title=true&layout=compact&card_width=320&theme=react&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theahmedhany&locale=en&hide_title=true&layout=compact&card_width=300&theme=react&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <h3 align="left">
@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="python logo"/>
   <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="40" alt="Dart logo"/>
   <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="40" alt="flutter logo"/>
+  <img src="https://github.com/user-attachments/assets/d63b9f3e-8476-460b-8ede-8f02b977e355" width="40" height="40" alt="bloc logo"/>
+  <img src="https://github.com/user-attachments/assets/a1604607-6b70-45e6-a41d-69a9245e7013" width="40" height="40" alt="hive logo"/>
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="40" alt="firebase logo"/>
   <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="40" alt="supabase logo"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="mysql logo"/>
@@ -59,5 +61,8 @@
   </a>
   <a href="https://x.com/theahmedhany" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="52" height="40" alt="twitter logo"/>
+  </a>
+  <a href="https://theahmedhany.github.io/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1993aed1-972f-4533-9f31-c22c7cc28bbc" width="52" height="40" alt="portfolio logo"/>
   </a>
 </div>
