@@ -34,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="45",width="45"  alt="supabase logo"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45",width="45"  alt="mysql logo"/>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" height="45" alt="html logo"/>
+  <br>
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" height="45" alt="css logo"/>
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" height="45" alt="js logo"/>
   <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45",width="45"  alt="git logo"/>
@@ -44,6 +45,7 @@
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45" height="45" alt="figma logo"/>
   <img src="https://skillicons.dev/icons?i=xd&theme=dark" width="45" height="45" alt="xd logo"/>
   <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="45" height="45" alt="ps logo"/>
+  <br>
   <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="45" height="45" alt="ai logo"/>
   <img src="https://skillicons.dev/icons?i=notion&theme=light" width="45" height="45" alt="notion logo"/>
 </div>
