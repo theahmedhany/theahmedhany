@@ -23,29 +23,29 @@
     Tech Stack:
 </h3>
 
-<div align="left" style="display: flex; gap: .5rem; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40" alt="cpp logo"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="python logo"/>
-  <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="40" alt="Dart logo"/>
-  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="40" alt="flutter logo"/>
-  <img src="https://github.com/user-attachments/assets/d63b9f3e-8476-460b-8ede-8f02b977e355" width="40" height="40" alt="bloc logo"/>
-  <img src="https://github.com/user-attachments/assets/a1604607-6b70-45e6-a41d-69a9245e7013" width="40" height="40" alt="hive logo"/>
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="40" alt="firebase logo"/>
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="40" alt="supabase logo"/>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="mysql logo"/>
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40" alt="html logo"/>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" height="40" alt="css logo"/>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" height="40" alt="js logo"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="git logo"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="github logo"/>
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40" height="40" alt="postman logo"/>
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" alt="VScode logo"/>
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" alt="linux logo"/>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" height="40" alt="figma logo"/>
-  <img src="https://skillicons.dev/icons?i=xd&theme=dark" width="40" height="40" alt="xd logo"/>
-  <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="40" height="40" alt="ps logo"/>
-  <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="40" height="40" alt="ai logo"/>
-  <img src="https://skillicons.dev/icons?i=notion&theme=light" width="40" height="40" alt="notion logo"/>
+<div align="center" style="display: flex; gap: .5rem; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45", width="45" alt="cpp logo"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45",width="45"  alt="python logo"/>
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="45",width="45"  alt="Dart logo"/>
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="45",width="45"  alt="flutter logo"/>
+  <img src="https://github.com/user-attachments/assets/d63b9f3e-8476-460b-8ede-8f02b977e355" width="45" height="45" alt="bloc logo"/>
+  <img src="https://github.com/user-attachments/assets/a1604607-6b70-45e6-a41d-69a9245e7013" width="45" height="45" alt="hive logo"/>
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="45",width="45"  alt="firebase logo"/>
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="45",width="45"  alt="supabase logo"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45",width="45"  alt="mysql logo"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" height="45" alt="html logo"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" height="45" alt="css logo"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" height="45" alt="js logo"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45",width="45"  alt="git logo"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45",width="45"  alt="github logo"/>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="45",width="45"  height="45" alt="postman logo"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45",width="45"  alt="VScode logo"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45",width="45"  alt="linux logo"/>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45" height="45" alt="figma logo"/>
+  <img src="https://skillicons.dev/icons?i=xd&theme=dark" width="45" height="45" alt="xd logo"/>
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="45" height="45" alt="ps logo"/>
+  <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="45" height="45" alt="ai logo"/>
+  <img src="https://skillicons.dev/icons?i=notion&theme=light" width="45" height="45" alt="notion logo"/>
 </div>
 
 <h3 align="left">
@@ -54,15 +54,15 @@
 
 <div align="left" style="display: flex; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/theahmedhany/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" height="40" alt="linkedin logo"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="linkedin logo"/>
   </a>
   <a href="mailto:a7medhanyshokry@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="52" height="40" alt="gmail logo"/> 
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="45" height="45" alt="gmail logo"/> 
   </a>
   <a href="https://x.com/theahmedhany" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="52" height="40" alt="twitter logo"/>
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" height="45" alt="twitter logo"/>
   </a>
   <a href="https://theahmedhany.github.io/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/1993aed1-972f-4533-9f31-c22c7cc28bbc" width="52" height="40" alt="portfolio logo"/>
+    <img src="https://github.com/user-attachments/assets/5e1c79a9-21cc-41f8-818f-820582f6abbe" width="45" height="45" alt="portfolio logo"/>
   </a>
 </div>
