@@ -27,12 +27,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theahmedhany&theme=tokyonight&hide_border=true&locale=en&hide_title=true&background=0D1117" alt="GitHub Streak"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theahmedhany&&locale=en&hide_title=true&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theahmedhany&theme=tokyonight&hide_border=true&locale=en&hide_title=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theahmedhany&&locale=en&hide_title=true&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=theahmedhany&theme=tokyo-night&hide_border=true&locale=en&hide_title=true&bg_color=0D1117" alt="GitHub Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=theahmedhany&theme=tokyo-night&hide_border=true&locale=en&hide_title=true" alt="GitHub Activity Graph"/>
 </div>
 
 <br>
