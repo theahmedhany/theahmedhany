@@ -1,26 +1,46 @@
 <br clear="both">
 
 <div align="center">
-  <img height="450" src="https://i.redd.it/n8agw6z2smyb1.gif" alt=""/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=84AE92&center=true&vCenter=true&width=750&lines=Welcome+to+Ahmed+Hany's+Coding+Universe" alt="Typing SVG" />
 </div>
 
-<h3 align="center">
-  Hi! I'm Ahmed Hany. <br/>
-  I'm a Software Engineer. <br/>
-</h3>
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=theahmedhany.theahmedhany&left_color=grey&right_color=blue" alt="visitor badge"/>
+  <img height="450" src="https://i.redd.it/n8agw6z2smyb1.gif" alt=""/>
 </div>
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theahmedhany&locale=en&hide_title=true&layout=compact&card_width=300&theme=react&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&multiline=true&&color=D8008F&vCenter=true&width=440&height=70&lines=Software+Engineer;Mobile+Application+Developer" alt="Typing SVG">
 </div>
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=theahmedhany.theahmedhany&style=social" alt="visitor badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/theahmedhany?style=social" alt="Stars badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Contributions-365%2B-brightgreen" alt="Contributions badge"/>
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theahmedhany&theme=tokyonight&hide_border=true&locale=en&hide_title=true&background=0D1117" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theahmedhany&&locale=en&hide_title=true&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=theahmedhany&theme=tokyo-night&hide_border=true&locale=en&hide_title=true&bg_color=0D1117" alt="GitHub Activity Graph"/>
+</div>
+
+<br>
+
+---
+
 <h3 align="left">
-    Tech Stack:
+    Tech Arsenal
 </h3>
 
 <div align="left" style="display: flex; gap: .5rem; flex-wrap: wrap;">
@@ -29,6 +49,7 @@
   <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="45",width="45" alt="Dart logo"/>
   <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="45",width="45" alt="flutter logo"/>
   <img src="https://github.com/user-attachments/assets/d63b9f3e-8476-460b-8ede-8f02b977e355" width="45" height="45" alt="bloc logo"/>
+  <img src="https://github.com/user-attachments/assets/21ffffcd-7552-4953-8bee-e02bc6797de9" width="45" height="45" alt="Riverpod logo"/>
   <img src="https://github.com/user-attachments/assets/a1604607-6b70-45e6-a41d-69a9245e7013" width="45" height="45" alt="hive logo"/>
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="45",width="45" alt="firebase logo"/>
   <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="45",width="45" alt="supabase logo"/>
@@ -48,8 +69,12 @@
   <img src="https://skillicons.dev/icons?i=notion&theme=light" width="45" height="45" alt="notion logo"/>
 </div>
 
+<br>
+
+---
+
 <h3 align="left">
-    Let's Connect:
+    Let's Connect & Collaborate!
 </h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap;">
@@ -65,4 +90,14 @@
   <a href="https://theahmedhany.github.io/" target="_blank">
     <img src="https://github.com/user-attachments/assets/5e1c79a9-21cc-41f8-818f-820582f6abbe" width="45" height="45" alt="portfolio logo"/>
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=45&descAlign=center" alt="Footer"/>
+</div>
+
+<div align="center">
+  <sub>Made with ❤️ and lots of ☕</sub>
 </div>
