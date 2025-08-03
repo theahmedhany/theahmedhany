@@ -50,6 +50,7 @@
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="45",width="45" alt="firebase logo"/>
   <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="45",width="45" alt="supabase logo"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45",width="45" alt="mysql logo"/>
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="45",width="45" alt="sqlite logo"/>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" height="45" alt="html logo"/>
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" height="45" alt="css logo"/>
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" height="45" alt="js logo"/>
@@ -57,6 +58,7 @@
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45",width="45"  alt="github logo"/>
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="45",width="45"  height="45" alt="postman logo"/>
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45",width="45"  alt="VScode logo"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="45",width="45"  alt="androidstudio logo"/>
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45",width="45"  alt="linux logo"/>
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45" height="45" alt="figma logo"/>
   <img src="https://skillicons.dev/icons?i=xd&theme=dark" width="45" height="45" alt="xd logo"/>
