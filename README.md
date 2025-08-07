@@ -27,8 +27,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theahmedhany&theme=tokyonight&hide_border=true&locale=en&hide_title=true" alt="GitHub Streak"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theahmedhany&&locale=en&hide_title=true&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+  <img height="180em" src="https://stats.hyo.dev/api/github-stats-advanced?login=theahmedhany" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theahmedhany&&locale=en&hide_title=true&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=8&bg_color=26272D" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -80,7 +81,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="linkedin logo"/>
   </a>
   <a href="mailto:a7medhanyshokry@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="45" height="45" alt="gmail logo"/> 
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="45" height="45" alt="gmail logo"/>
   </a>
   <a href="https://x.com/theahmedhany" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" height="45" alt="twitter logo"/>
