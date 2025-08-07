@@ -28,8 +28,8 @@
 
 <div align="center">
 
-  <img height="200em" src="https://stats.hyo.dev/api/github-stats-advanced?login=theahmedhany" alt="GitHub Streak"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theahmedhany&&locale=en&hide_title=true&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=8&bg_color=26272D" alt="GitHub Streak"/>
+  <img height="220em" src="https://stats.hyo.dev/api/github-stats-advanced?login=theahmedhany" alt="GitHub Streak"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theahmedhany&&locale=en&hide_title=true&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=8&bg_color=26272D" alt="GitHub Streak"/>
 </div>
 
 <br>
