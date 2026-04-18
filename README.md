@@ -59,9 +59,6 @@
 <img src="https://skillicons.dev/icons?i=ai" width="45" style="margin-right:6px;"/>
 <img src="https://skillicons.dev/icons?i=ps" width="45" style="margin-right:6px;"/>
 <img src="https://skillicons.dev/icons?i=notion" width="45" style="margin-right:6px;"/>
-<img src="https://github.com/user-attachments/assets/d63b9f3e-8476-460b-8ede-8f02b977e355" width="45" height="45" style="margin-right:6px;"/>
-<img src="https://github.com/user-attachments/assets/21ffffcd-7552-4953-8bee-e02bc6797de9" width="45" height="45" style="margin-right:6px;"/>
-<img src="https://github.com/user-attachments/assets/a1604607-6b70-45e6-a41d-69a9245e7013" width="45" height="45"/>
 </p>
 
 <br>
@@ -80,9 +77,6 @@
 <a href="https://x.com/theahmedhany" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" width="45" style="margin-right:6px;"/>
 </a>
-<a href="https://theahmedhany.github.io/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/5e1c79a9-21cc-41f8-818f-820582f6abbe" width="45" height="45"/>
-</a>
 </p>
 
 <br>
@@ -92,5 +86,5 @@
 </div>
 
 <div align="center">
-  <sub>Made with ❤️ and lots of ☕</sub>
+  <sub>Made with ♥️ and lots of ☕️</sub>
 </div>
