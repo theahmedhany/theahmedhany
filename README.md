@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=600&size=28&duration=3000&pause=1000&color=84AE92&center=true&vCenter=true&width=750&lines=Welcome+to+Ahmed+Hany's+Coding+Universe" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2000&pause=1000&color=84AE92&center=true&vCenter=true&width=750&lines=Welcome+to+Ahmed+Hany's+Coding+Universe" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&pause=1000&center=true&multiline=true&color=D8008F&vCenter=true&width=440&height=70&lines=Software+Engineer;Mobile+Application+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&pause=1000&duration=1500&center=true&multiline=true&color=D8008F&vCenter=true&width=440&height=70&lines=Software+Engineer;Mobile+Application+Developer" />
 </div>
 
 <br clear="both">
@@ -24,14 +24,6 @@
   <img src="https://img.shields.io/badge/Contributions-365%2B-brightgreen" />
 </div>
 
-<br clear="both">
-
-<div align="center">
-  <img height="220em" src="https://stats.hyo.dev/api/github-stats-advanced?login=theahmedhany" />
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theahmedhany&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=6&bg_color=26272D" />
-</div>
-
-<br>
 
 ---
 
