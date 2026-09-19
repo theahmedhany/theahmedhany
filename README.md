@@ -30,27 +30,34 @@
 <h3 align="left">Tech Arsenal</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=python" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=dart" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=flutter" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=firebase" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=supabase" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=sqlite" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=html" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=css" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=js" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=git" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=github" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=postman" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=androidstudio" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=linux" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=figma" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=ai" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=ps" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=notion" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=cpp&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=dart&theme=dark" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=supabase&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=html&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=css&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=js&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=swift&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=ruby&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=gradle&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=git&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=postman&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=apple&theme=dark" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=windows&theme=dark" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=ai&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=ps&theme=light" width="45" style="margin-right:6px;"/>
+<img src="https://skillicons.dev/icons?i=notion&theme=light" width="45" style="margin-right:6px;"/>
 </p>
 
 <br>
@@ -61,13 +68,16 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/theahmedhany/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" style="margin-right:6px;"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="45" style="margin-right:6px;"/>
 </a>
 <a href="mailto:a7medhanyshokry@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" style="margin-right:6px;"/>
+  <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="45" style="margin-right:6px;"/>
 </a>
 <a href="https://x.com/theahmedhany" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="45" style="margin-right:6px;"/>
+  <img src="https://skillicons.dev/icons?i=twitter&theme=light" width="45" style="margin-right:6px;"/>
+</a>
+<a href="https://www.instagram.com/theahmedhany" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="45" style="margin-right:6px;"/>
 </a>
 </p>
 
